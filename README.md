@@ -1,2 +1,2 @@
-# tts
-tts
+# OpenAI TTS
+ TTS sever based on OpenAI
